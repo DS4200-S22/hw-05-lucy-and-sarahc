@@ -2,3 +2,8 @@
 body {
   font-family: Arial;
 }
+
+.selected {
+  stroke: black;
+  stroke-width: 3px;
+}
